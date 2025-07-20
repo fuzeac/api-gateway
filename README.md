@@ -1,4 +1,4 @@
-# fuze-api-gateway
+# API Gateway
 
 > **TypeScript / Express REST & WebSocket gateway for FUZE.ac**  
 > One surface to control bots, query KPI data, manage unlock calendars, and orchestrate OTC bonds.
